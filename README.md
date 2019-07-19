@@ -1,3 +1,6 @@
+Official RequireJS and jQuery example https://github.com/requirejs/example-jquery-cdn with SurveyJS library
+
+
 Example of using require.js to load jQuery from a CDN
 ====
 
